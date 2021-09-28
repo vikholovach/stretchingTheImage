@@ -1,2 +1,2 @@
 # Stretching UIImageView
-## This app allows you to stretch UIImageView using panGestureRecognizer
+### Simple app that allows you to stratch UIImageView with panGesture
