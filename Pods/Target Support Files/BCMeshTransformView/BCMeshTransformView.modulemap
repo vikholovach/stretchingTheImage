@@ -1,0 +1,6 @@
+framework module BCMeshTransformView {
+  umbrella header "BCMeshTransformView-umbrella.h"
+
+  export *
+  module * { export * }
+}

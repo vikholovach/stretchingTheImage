@@ -1,8 +1,8 @@
 //
-//  AppDelegate.swift
+//  StretchViewController.swift
 //  BandTheImage
 //
-//  Created by wouff on 06.09.2021.
+//  Created by VikHolovach on 16.09.2021.
 //
 
 import UIKit
